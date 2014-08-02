@@ -55,7 +55,7 @@
   box-shadow: inset 0 0 0 9999em;
 }
 
-.redlove v + .redlove e {
+.redlove v + e {
   margin-left: -.5em;
 }
 
